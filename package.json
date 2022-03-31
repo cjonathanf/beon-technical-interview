@@ -1,0 +1,14 @@
+{
+  "name": "project-beon",
+  "version": "1.0.0",
+  "description": "Technical interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Jonathan Ferreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
+}
